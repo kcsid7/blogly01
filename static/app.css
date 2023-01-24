@@ -1,0 +1,30 @@
+#user_image {
+    width: 200px;
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+#save_user_btn {
+    margin: 2rem 0;
+    width: 100px;
+}
+
+#user-edit-form-btns {
+    width: 25%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.list-group-item {
+    border-top: none;
+    border-right: none;
+}
+
+.app-heading {
+    margin: 3rem 0;
+}
